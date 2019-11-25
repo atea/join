@@ -13,6 +13,7 @@ If you don't already have a private GitHub-account, create one. Make sure you ad
 
 ## 3 - connect your GitHub account to Atea's GitHub space  
 
+After your "Service Market" request has been approved:  
 Make sure you are logged in to your private GitHub-account. Go to this address: https://github.com/orgs/ateanorge/sso - this will lead you to Atea O365 SSO, which connects your private account to your Atea O365 account.
 
 ## FAQ?  
