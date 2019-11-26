@@ -2,12 +2,12 @@
 
 ## 1 - request service  
 
-If you're an Atea employee access can be ordered through [Service Market](https://servicemarket.atea.com/). Go to "Request" and then "Service". Search for "GitHub", put the production your shopping cart and press "Next". Access will be automatically granted after your manager has approved the request.
+If you're an Atea employee access can be ordered through [Service Market](https://servicemarket.atea.com/). Go to "Request" and then "Service". Search for "GitHub", put the product in your shopping cart and press "Next". Access will be automatically granted after your manager has approved the request.
 
 
 ## 2 - private GitHub account  
 
-If you don't already have a private GitHub-account, create one. Make sure you add your full name in the account, add 2FA (multi factor authentication), add and verify your Atea-mail (if you use private mail for your github account).  
+If you don't already have a private GitHub-account, create one. Make sure you add your full name in the account, add 2FA (multi factor authentication), and add and verify your Atea-mail (if you use private mail for your github account).  
 
 [GitHub guide to add and verify mail](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address) 
 
