@@ -18,7 +18,7 @@ Make sure you are logged in to your private GitHub-account. Go to this address: 
 
 <b>(1)</b> - You should receive two e-mails: 'Approved' og 'Complete' - make sure you received both e-mails
 
-<b>(2)</b> - Might take everything from some minutes to some hours from approval, to O365 user acoount is synchronized, if it doesn't work right away after approval, just wait a bit and try again. 
+<b>(2)</b> - Might take everything from some minutes to some hours from completed request, to O365 user acoount is synchronized, if it doesn't work right away after approval, just wait a bit and try again. 
 
 ## FAQ?  
 
