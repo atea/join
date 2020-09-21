@@ -1,24 +1,18 @@
 # Welcome to Git for Atea Norge
 
-## 1 - request service  
+## 1 - Request service  
 
-If you're an Atea employee access can be ordered through [Service Market](https://servicemarket.atea.com/). Go to "Request" and then "Service". Search for "GitHub", put the product in your shopping cart and press "Next". Access will be automatically granted after your manager has approved the request.
+If you're an Atea employee, access can be ordered through [Service Market](https://servicemarket.atea.com/). Go to "Request" and then "Service". Search for "GitHub", put the product in your shopping cart and press "Next". Access will be automatically granted after your manager has approved the request. You should receive two e-mails: 'Approved' and 'Complete' - make sure you received both e-mails. Might take some minutes, in rare case up to some hours, from completed request, to O365 user account is synchronized. If it doesn't work right away after approval, just wait a bit and try again.
 
+## 2 - Private GitHub account  
 
-## 2 - private GitHub account  
+If you don't already have a private GitHub-account, create one. Make sure you add your full name in the account, add 2FA (multi factor authentication), and add & verify your Atea-mail (if you use private mail for your GitHub account).  
 
-If you don't already have a private GitHub-account, create one. Make sure you add your full name in the account, add 2FA (multi factor authentication), and add and verify your Atea-mail (if you use private mail for your github account).  
+[GitHub guide to add and verify mail](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address)
 
-[GitHub guide to add and verify mail](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address) 
+## 3 - Connect your GitHub account to Atea's GitHub
 
-## 3 - connect your GitHub account to Atea's GitHub space  
-
-After your "Service Market" request has been approved and completed <b>(1)(2)</b>:  
-Make sure you are logged in to your private GitHub-account. Go to this address: https://github.com/orgs/ateanorge/sso - this will lead you to Atea O365 SSO, which connects your private account to your Atea O365 account.
-
-<b>(1)</b> - You should receive two e-mails: 'Approved' og 'Complete' - make sure you received both e-mails
-
-<b>(2)</b> - Might take everything from some minutes to some hours from completed request, to O365 user acoount is synchronized, if it doesn't work right away after approval, just wait a bit and try again. 
+After your "Service Market" request has been approved and completed, make sure you are logged in to your private GitHub-account. Then go to this address: https://github.com/orgs/ateanorge/sso, which will take you to Atea O365 SSO that connects your private account to your Atea O365 account.
 
 ## FAQ?  
 
