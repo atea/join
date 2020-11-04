@@ -12,7 +12,7 @@ If you don't already have a private GitHub-account, create one. Make sure you **
 
 ## 3 - Connect your GitHub account to Atea's GitHub (optional)
 
-After your "Service Market" request has been approved and completed, and the change has been synced to O365, you should automatically receive an invite to your Atea email, asking you to join the "ateanorge" GitHub organization. Follow the proceedures in that email. The invite is only valid for two week, and if it expires, you have to sign in to your GitHub account, and then go to [this address]( https://github.com/orgs/ateanorge/sso), which will take you to Atea O365 SSO that connects your private account to your Atea O365 account. 
+After your "Service Market" request has been approved and completed, and the change has been synced to O365, you should automatically receive an invite to your Atea email, asking you to join the "ateanorge" GitHub organization. Due to technical limitations in GitHub, that invitation is sent from @tingvold GitHub user. Follow the proceedures in that email. The invite is only valid for two week, and if it expires, you have to sign in to your GitHub account, and then go to [this address]( https://github.com/orgs/ateanorge/sso), which will take you to Atea O365 SSO that connects your private account to your Atea O365 account. 
 
 ## FAQ?  
 
