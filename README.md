@@ -1,4 +1,4 @@
-# Welcome to Git for Atea Norge
+# Welcome to GitHub for Atea
 
 ## 1 - Request service  
 
@@ -10,9 +10,9 @@ If you don't already have a private GitHub-account, create one. Make sure you **
 
 [GitHub guide to add and verify mail](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address)
 
-## 3 - Connect your GitHub account to Atea's GitHub (optional)
+## 3 - Connect your GitHub account to Atea's GitHub
 
-After your "Service Market" request has been approved and completed, and the change has been synced to O365, you should automatically receive an invite to your Atea email, asking you to join the "ateanorge" GitHub organization (the sync only happens once every 40 minutes). The invitation should be sent from the [`atea-asa`](https://github.com/atea-asa) GitHub user. Follow the proceedures in that email. The invite is only valid for two weeks, and if it expires, you have to sign in to your GitHub account, and then go to [this address]( https://github.com/orgs/ateanorge/sso), which will take you to Atea O365 SSO that connects your private account to your Atea O365 account.
+After your "Service Market" request has been approved and completed, and the change has been synced to O365, you should automatically receive an invite to your Atea email, asking you to join the "atea" GitHub organization (the sync only happens once every 40 minutes). The invitation should be sent from the [`atea-asa`](https://github.com/atea-asa) GitHub user. Follow the proceedures in that email. The invite is only valid for two weeks, and if it expires, you have to sign in to your GitHub account, and then go to [this address]( https://github.com/orgs/atea/sso), which will take you to Atea O365 SSO that connects your private account to your Atea O365 account.
 
 ## FAQ?  
 
