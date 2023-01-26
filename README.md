@@ -2,7 +2,7 @@
 
 ## 1 - Request service  
 
-If you're an Atea employee, access can be ordered through [Service Market](https://servicemarket.atea.com/). Go to "Request" and then "Service". Search for "GitHub", put the product in your shopping cart and press "Next". Access will be automatically granted after your manager has approved the request. You should receive two e-mails: 'Approved' and 'Complete' - make sure you received both e-mails. Might take some minutes, in rare case up to some hours, from completed request, to O365 user account is synchronized. If it doesn't work right away after approval, just wait a bit and try again.
+If you're an Atea employee, access can be ordered through [OneHub](https://onehub.atea.com/oh?id=sc_cat_item&sys_id=6011141d1be90d107532635ee54bcb73). If the direct link does not work, search for "GitHub Enterprise Cloud" or go to "Access, Accounds and Licenses" -> "System or Application". Access will be automatically granted after your manager has approved the request. You should receive two e-mails: 'Approved' and 'Complete' - make sure you received both e-mails. Might take some minutes, in rare case up to some hours, from completed request, to O365 user account is synchronized. If it doesn't work right away after approval, just wait a bit and try again.
 
 ## 2 - Private GitHub account  
 
